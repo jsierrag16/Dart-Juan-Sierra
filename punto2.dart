@@ -1,6 +1,6 @@
 import 'dart:io';
 
-void main() {
+void punto2() {
   print('--- Cálculo del promedio del estudiante ---');
 
   // Leer las tres notas

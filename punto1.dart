@@ -1,6 +1,6 @@
 import 'dart:io';
 
-void main() {
+void punto1() {
   // Solicitar velocidad
   stdout.write('Ingrese la velocidad (m/s): ');
   double velocidad = double.parse(stdin.readLineSync()!);

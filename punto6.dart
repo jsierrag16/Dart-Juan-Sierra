@@ -1,6 +1,6 @@
 import 'dart:io';
 
-void main() {
+void punto6() {
   print('--- Conversión de temperatura Celsius a Fahrenheit ---');
 
   // Leer la temperatura en °C

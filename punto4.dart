@@ -1,6 +1,6 @@
 import 'dart:io';
 
-void main() {
+void punto4() {
   print('--- Planilla de pago de empleado ---');
 
   // Leer nombre del empleado

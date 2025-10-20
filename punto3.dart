@@ -1,6 +1,6 @@
 import 'dart:io';
 
-void main() {
+void punto3() {
   print('--- Cálculo de puntaje de un equipo de fútbol ---');
 
   // Ingresar datos

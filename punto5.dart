@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:math';
 
-void main() {
+void punto5() {
   print('--- Cálculo de la hipotenusa de un triángulo rectángulo ---');
 
   // Ingresar los catetos
